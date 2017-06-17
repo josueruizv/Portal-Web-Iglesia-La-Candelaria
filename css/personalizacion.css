@@ -1,0 +1,297 @@
+body
+{
+  background-color: #c0c0c0;
+}
+#contenedor-principal
+{
+  background-color: #222222;
+  box-shadow: #000 0 0 1em;
+}
+#contenedor-prin
+{
+  background-color: #fff;
+  box-shadow: #000 0 0 1em;
+}
+#cabecera
+{
+  width: 100%;
+  background-color: #060620;
+  padding-bottom: 5px; 
+}  
+#cabecera h3
+{
+  text-align: center;
+  color: #fff;
+}
+#menu
+{
+  box-shadow: #fff;
+  border-radius: 0;
+}
+.dropdown-menu
+{
+  background-color: #222222;
+}
+.dropdown-menu li a
+{
+ color: white;
+}
+.titulos
+{
+  font-size: 16px;
+  margin: 0;
+}
+.descrip_noticia
+{
+  text-align: justify;
+}
+.contenido
+{
+  background-color: #fff;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  box-shadow: #949494 0 0 1em;
+}
+.cita
+{
+  margin-bottom: 80px;
+}
+.aside
+{
+  background-color: #222222;  
+}
+
+#formulario
+{
+  padding: 40px 0;
+  background-color: #fff;
+}
+.titulo
+{
+  width: 90%;
+  background-color: #060655;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.titulo h4
+{
+  text-align: center;
+  color: #FFF;
+  padding-top: 5px
+}
+.requisitos,.notas
+{
+  margin-top: 50px;
+}
+.titles
+{
+  color: #949494;
+  font-family: Tahoma;
+  margin-left: 40px;
+  border-bottom: 3px solid #949494;
+}
+.titles-negro
+{
+  color: #000;
+  font-family: Tahoma;
+  margin-left: 40px;
+  border-bottom: 3px solid #000;
+}
+.sac
+{
+  margin-top: 80px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #949494;
+  box-shadow: #000 0 0 1em;
+  border-radius: 15px;
+}
+.sac li a
+{
+  font-size: 18px;
+  color: #0d29d8;
+}
+#borde
+{
+  border: 1px solid #060655;
+}
+.form-group
+{
+  margin: 8px 0;
+}
+.form-group label
+{
+  color: #060655;
+  font-size: 17px;
+  text-align: justify;
+}
+hr
+{
+  -moz-border-bottom-colors: none;
+  -moz-border-image: none;
+  -moz-border-left-colors: none;
+  -moz-border-right-colors: none;
+  -moz-border-top-colors: none;
+  border-color: #000 -moz-use-text-color #000;
+  border-style: solid none;
+  border-width: 2px 0;
+  margin: 18px 80px;
+}
+ .twitterpapa
+{
+  margin-top: 60px;
+}
+.tit
+{
+  margin-top: 30px;
+}
+
+.tit header
+{
+  background-color: #1382b2;
+  border: 5px solid #207398;
+  border-radius: 5px; 
+  text-align: center;
+  font-size: 20px;
+  font-family: tahoma;
+  font-weight: bold;
+  color: #000;
+}
+.pic
+{
+  background-color: #4a4a4a;
+  margin: auto;
+}
+.pic img
+{
+  margin: 0 auto;
+  padding: 8px 0 8px 0;
+}
+
+#horario
+{
+  background-color: #4a4a4a; 
+  margin: auto;
+  padding: 5px 0 5px 0;
+}
+#horario header
+{
+  font-size: 30px;
+  font-family: calibri;
+  color: #949494;
+  text-align: center;
+  padding-bottom: 10px;
+}
+#horario p
+{
+  font-size: 23px;
+  font-family: calibri;
+  color: #949494;
+  text-align: center;
+  margin: 0 auto;
+}
+#acceso
+{
+  background-color: #4a4a4a; 
+  margin: auto;
+  padding: 5px 0 5px 0;
+}
+#acceso header
+{
+  font-size: 30px;
+  font-family: calibri;
+  color: #949494;
+  text-align: center;
+  padding-bottom: 10px;
+}
+.text-help
+{
+  font-size: 11px;
+  font-family: arial;
+  font-weight: bold;
+  text-align: center;
+}
+
+.alerta
+{
+  color: red;
+  font-weight: bold;
+}
+#tabla_nom,#tabla_ced,#tabla_pad,#tabla_mad,#tabla_pdr,#tabla_mdr,#tabla_anio,#tabla_fecha
+{
+  font-size: 14px;
+}
+
+#footer
+{
+  margin-top: 50px;
+}
+#pie
+{
+  padding: 5px 0;
+  background-color: #949494;
+}
+#pie p
+{
+  font-family: Tahoma;
+  font-size: 14px;
+  font-weight: bold;
+  color: #222222;
+  margin: 0 auto;
+  text-align: center;
+}
+.centro
+{
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  font-size: 12px;
+}
+#bottom
+{
+  padding: 5px 0;
+  background-color: #222222;
+}
+#bottom p
+{
+  font-family: Tahoma;
+  font-size: 14px;
+  font-weight: bold;
+  color: #c0c0c0;
+  margin: 0 auto;
+  text-align: center;
+}
+#desarrollado
+{
+  color: #FFF;
+}
+#desarrollado center
+{
+  font-size: 12px;
+}
+#desarrollado-negro
+{
+  background-color: #222222;
+  color: #FFF;
+}
+#desarrollado-negro center
+{
+  font-size: 12px;
+}
+#desarrollado-blanco
+{
+  background-color: #fff;
+  color: #000;
+}
+#desarrollado-blanco center
+{
+  font-size: 12px;
+}
+#fbcomments, .fb-comments, .fb-comments iframe[style], .fb-comments span
+{
+  width: 100% !important;
+}
+.abc 
+{
+  font-size: 60px;
+}
